@@ -21,7 +21,7 @@ while (contador < 120) {
     console.log("Contador: " + contador);
 
     if (contador === 100) {
-        console.log("¡El contador llegó a 100 ");
+        console.log("Pasaron 100s de inactividad, por favor recargar la página!");
         break; 
     }
 

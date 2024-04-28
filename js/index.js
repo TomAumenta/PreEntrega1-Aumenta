@@ -1,7 +1,7 @@
 
 // conversor de dolar a peso argentino
 
-const valorPeso = 1220; 
+const valorPeso = 1055; 
 
 const valorDolar = prompt('Ingrese la cantidad en dólares:');
 

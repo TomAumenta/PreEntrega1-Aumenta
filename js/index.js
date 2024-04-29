@@ -1,5 +1,5 @@
 
-// conversor de dolar a peso argentino
+// conversor de dolar a peso argentino Promt
 
 const valorPeso = 1055; 
 
@@ -11,3 +11,10 @@ if (valorDolar) {
 } else {
     console.log('Ingreso cancelado o valor inválido.');
 }
+
+
+// Contador hasta 10 consola
+for (let i = 1; i <= 10; i++) {
+    console.log(i);
+  }
+  
